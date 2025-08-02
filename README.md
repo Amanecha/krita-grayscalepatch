@@ -63,7 +63,16 @@ Useful for checking values and brightness levels while painting.
 ---
 
 ## 📁 File Structure
-<pre><code>``` pykrita/ ├── grayscalepatch/ │ ├── __init__.py │ ├── create_template.py │ ├── grayscale.py │ ├── grayscalepatch.py │ ├── LICENSE │ └── README.md └── grayscalepatch.desktop ```</code></pre>
+<pre><code>pykrita/
+├── grayscalepatch/
+│   ├── __init__.py
+│   ├── create_template.py
+│   ├── grayscale.py
+│   ├── grayscalepatch.py
+│   ├── LICENSE
+│   └── README.md
+└── grayscalepatch.desktop
+</code></pre>
 ---
 
 ## 🧪 Development
