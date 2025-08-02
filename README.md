@@ -38,7 +38,12 @@ Useful for checking values and brightness levels while painting.
 
     ```bash
     cd ~/Library/Application\ Support/krita/pykrita/
-    git clone https://github.com/Amanecha/krita-grayscalepatch.git grayscalepatch
+
+    git clone https://github.com/Amanecha/krita-grayscalepatch.git
+
+    cp -r krita-grayscalepatch/grayscalepatch ~/Library/Application\ Support/krita/pykrita/
+    
+    cp krita-grayscalepatch/grayscalepatch.desktop ~/Library/Application\ Support/krita/pykrita/
     ```
 
 3. Restart Krita
